@@ -1,5 +1,5 @@
 # Descrição
-Product Viewer 360 com JavaScript
+3D Product Viewer com JavaScript
 
 # Demonstraçao
 Link para visualizar: https://bit.ly/38QMvMI
